@@ -7,9 +7,12 @@
 
     $ component install yields/unserialize
 
-## API
+## Example
 
-   
+```js
+var str = JSON.stringify('boo');
+assert('boo' == unserialize(str));
+```
 
 ## License
 
