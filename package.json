@@ -1,0 +1,25 @@
+{
+  "name": "yields-unserialize",
+  "version": "0.0.1",
+  "description": "Unserialize a serialized javascript value.",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yields/unserialize.git"
+  },
+  "keywords": [
+    "browser"
+  ],
+  "dependencies": {},
+  "browser": {},
+  "author": "Amir Abu Shareb <yields@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yields/unserialize/issues"
+  },
+  "files": [
+    "index.js"
+  ]
+}
